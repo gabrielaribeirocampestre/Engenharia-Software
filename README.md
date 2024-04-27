@@ -1,3 +1,6 @@
+APLICATIVO DE SUPORTE EMOCIONAL 
+
+
 Passo 1: Definição de Recursos -- TP1 - Workshop de Requisitos e Planejamento Inicial
 1.	Meditação Guiada: Inclua áudios ou vídeos de meditação guiada para ajudar os usuários a relaxar e reduzir o estresse.
 2.	Diário de Humor: Permita que os usuários registrem seu humor diário e acompanhem suas emoções ao longo do tempo.
