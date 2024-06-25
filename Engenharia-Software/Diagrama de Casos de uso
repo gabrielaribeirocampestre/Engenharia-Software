@@ -1,0 +1,40 @@
+ Aqui está o diagrama de caso de uso para o aplicativo de suporte emocional:
+
+```
++-------------------------------------+
+|        Aplicativo de Suporte       |
+|             Emocional              |
++-------------------------------------+
+|                                     |
+|        Usuário                       |
+|                                     |
++-------------------------------------+
+|                                     |
+| 1. Criar Conta                      |
+| 2. Fazer Login                      |
+| 3. Visualizar Meditações Guiadas    |
+| 4. Iniciar Meditação                |
+| 5. Registrar Humor                  |
+| 6. Visualizar Diário de Humor       |
+| 7. Ler Dicas e Artigos              |
+| 8. Acessar Fórum de Apoio           |
+| 9. Enviar Mensagem no Fórum         |
+| 10. Acessar Chat com Profissionais  |
+| 11. Enviar Mensagem no Chat         |
+| 12. Sair do Aplicativo              |
+|                                     |
++-------------------------------------+
+```
+
+Neste diagrama de caso de uso:
+
+- **Usuário**: Representa o ator principal, que interage com o aplicativo de suporte emocional.
+- **Criar Conta** e **Fazer Login**: Casos de uso relacionados à autenticação do usuário.
+- **Visualizar Meditações Guiadas** e **Iniciar Meditação**: Permitem que o usuário acesse e utilize as meditações guiadas oferecidas pelo aplicativo.
+- **Registrar Humor** e **Visualizar Diário de Humor**: Permitem que o usuário registre seu humor diário e visualize seu histórico de emoções.
+- **Ler Dicas e Artigos**: Permite que o usuário acesse conteúdo educativo sobre saúde mental.
+- **Acessar Fórum de Apoio** e **Enviar Mensagem no Fórum**: Permitem que o usuário participe de discussões e interaja com outros usuários no fórum de apoio.
+- **Acessar Chat com Profissionais** e **Enviar Mensagem no Chat**: Permitem que o usuário converse com terapeutas ou conselheiros licenciados para orientação adicional.
+- **Sair do Aplicativo**: Encerra a sessão do usuário no aplicativo.
+
+Este diagrama de caso de uso ajuda a visualizar as principais funcionalidades e interações do usuário com o aplicativo de suporte emocional.

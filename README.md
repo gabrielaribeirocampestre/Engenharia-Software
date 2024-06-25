@@ -1,27 +1,66 @@
-APLICATIVO DE SUPORTE EMOCIONAL 
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
+<p align="center">
+<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+</p>
 
-Passo 1: Definição de Recursos -- TP1 - Workshop de Requisitos e Planejamento Inicial
-1.	Meditação Guiada: Inclua áudios ou vídeos de meditação guiada para ajudar os usuários a relaxar e reduzir o estresse.
-2.	Diário de Humor: Permita que os usuários registrem seu humor diário e acompanhem suas emoções ao longo do tempo.
-3.	Dicas e Artigos: Forneça conteúdo educativo sobre saúde mental, incluindo dicas para lidar com o estresse, ansiedade e depressão.
-4.	Fórum de Apoio: Crie um espaço onde os usuários possam se conectar, compartilhar experiências e oferecer apoio uns aos outros.
-5.	Chat com Profissionais: Integre um recurso de chat onde os usuários possam se comunicar com terapeutas ou conselheiros licenciados para orientação adicional.
-Passo 2: Design da Interface do Usuário -- TP2 - Projeto de Software e Plano de Testes
-1.	Interface Acolhedora: Crie um design amigável e acolhedor, com cores suaves e elementos visuais relaxantes.
-2.	Navegação Intuitiva: Certifique-se de que os usuários possam acessar facilmente os recursos principais do aplicativo, como meditação, diário e fórum de apoio.
-3.	Personalização: Permita que os usuários personalizem sua experiência, como escolher temas visuais ou configurar lembretes personalizados.
-4.	Feedback Positivo: Implemente elementos de feedback positivo para incentivar os usuários a continuar usando o aplicativo, como mensagens de encorajamento e conquistas desbloqueáveis.
-Passo 3: Desenvolvimento -- TP3 - Sprint 1
-1.	Escolha da Plataforma: Decida se você vai desenvolver o aplicativo para dispositivos iOS, Android ou ambos, e escolha as ferramentas e linguagens de programação adequadas.
-2.	Desenvolvimento Frontend e Backend: Desenvolva a interface do usuário e a lógica de negócios do aplicativo, garantindo que os recursos funcionem corretamente e sejam responsivos.
-3.	Integração de Recursos: Integre os recursos do aplicativo, como áudios de meditação, banco de dados para o diário de humor e sistema de chat com profissionais.
-4.	Testes e Correções: Realize testes extensivos para garantir que o aplicativo funcione corretamente em diferentes dispositivos e resolva quaisquer problemas ou bugs encontrados.
-Passo 4: Lançamento e Feedback - - TP4 - Sprint 2
-1.	Lançamento na Loja de Aplicativos: Publique o aplicativo na loja de aplicativos relevante e promova-o para alcançar os usuários.
-2.	Solicitação de Feedback: Incentive os usuários a fornecer feedback sobre o aplicativo para que você possa fazer melhorias futuras.
-3.	Atualizações Regulares: Mantenha o aplicativo atualizado com novos recursos, correções de bugs e melhorias com base no feedback dos usuários.
-Passo 5: Manutenção Contínua -- TP5 - Entrega Final
-1.	Monitoramento de Desempenho: Acompanhe o desempenho do aplicativo, incluindo o número de downloads, tempo de uso e avaliações dos usuários.
-2.	Suporte ao Cliente: Ofereça suporte aos usuários para ajudar com quaisquer problemas ou dúvidas que possam surgir.
-3.	Melhorias Incrementais: Continue aprimorando o aplicativo com base no feedback dos usuários e nas tendências do mercado de saúde mental.
+## About Laravel
+
+Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+
+- [Simple, fast routing engine](https://laravel.com/docs/routing).
+- [Powerful dependency injection container](https://laravel.com/docs/container).
+- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
+- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
+- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
+- [Robust background job processing](https://laravel.com/docs/queues).
+- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+
+Laravel is accessible, powerful, and provides tools required for large, robust applications.
+
+## Learning Laravel
+
+Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+
+You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+
+If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+
+## Laravel Sponsors
+
+We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+
+### Premium Partners
+
+- **[Vehikl](https://vehikl.com/)**
+- **[Tighten Co.](https://tighten.co)**
+- **[WebReinvent](https://webreinvent.com/)**
+- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
+- **[64 Robots](https://64robots.com)**
+- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
+- **[Cyber-Duck](https://cyber-duck.co.uk)**
+- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
+- **[Jump24](https://jump24.co.uk)**
+- **[Redberry](https://redberry.international/laravel/)**
+- **[Active Logic](https://activelogic.com)**
+- **[byte5](https://byte5.de)**
+- **[OP.GG](https://op.gg)**
+
+## Contributing
+
+Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+
+## Code of Conduct
+
+In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+
+## Security Vulnerabilities
+
+If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+
+## License
+
+The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).

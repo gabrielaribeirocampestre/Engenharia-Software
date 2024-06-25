@@ -1,0 +1,31 @@
+Vamos detalhar os requisitos funcionais e não funcionais para o aplicativo de suporte emocional:
+
+### Requisitos Funcionais:
+
+1. **Autenticação de Usuário**: Os usuários devem ser capazes de criar uma conta e fazer login no aplicativo.
+   
+2. **Meditação Guiada**: O aplicativo deve oferecer áudios ou vídeos de meditação guiada para ajudar os usuários a relaxar.
+   
+3. **Diário de Humor**: Os usuários devem poder registrar seu humor diário e acompanhar suas emoções ao longo do tempo.
+   
+4. **Dicas e Artigos**: O aplicativo deve fornecer conteúdo educativo sobre saúde mental, como dicas para lidar com o estresse e a ansiedade.
+   
+5. **Fórum de Apoio**: Deve existir um espaço onde os usuários possam se conectar, compartilhar experiências e oferecer apoio uns aos outros.
+   
+6. **Chat com Profissionais**: Deve haver um recurso de chat onde os usuários possam se comunicar com terapeutas ou conselheiros licenciados para orientação adicional.
+
+### Requisitos Não Funcionais:
+
+1. **Usabilidade**: O aplicativo deve ser fácil de usar e acessível para pessoas de todas as idades e níveis de habilidade.
+   
+2. **Desempenho**: O aplicativo deve ser responsivo e rápido, garantindo uma experiência fluida para os usuários.
+   
+3. **Segurança**: Deve ser implementada uma forte proteção de dados para garantir a privacidade dos usuários e a confidencialidade das informações pessoais.
+   
+4. **Disponibilidade**: O aplicativo deve estar disponível 24 horas por dia, 7 dias por semana, para que os usuários possam acessá-lo quando precisarem de apoio emocional.
+   
+5. **Compatibilidade**: O aplicativo deve ser compatível com uma ampla variedade de dispositivos e sistemas operacionais para alcançar o maior número possível de usuários.
+   
+6. **Feedback**: Deve haver um sistema para os usuários fornecerem feedback sobre o aplicativo, para que possam ser feitas melhorias contínuas.
+
+Estes são apenas alguns exemplos de requisitos funcionais e não funcionais para o aplicativo de suporte emocional. Certifique-se de revisar e ajustar conforme necessário, com base nas necessidades específicas dos usuários e nos recursos disponíveis para desenvolvimento.
